@@ -1,0 +1,9 @@
+{
+    "news": [
+        {"title": "Article1", "text": "SomeText1"},
+        {"title": "Article2", "text": "SomeText2"},
+        {"title": "Article3", "text": "SomeText3"},
+        {"title": "Article4", "text": "SomeText4"},
+        {"title": "Article5", "text": "SomeText5"}
+    ]
+}
