@@ -3,5 +3,10 @@
     {"title": "Article2", "text": "SomeText2"},
     {"title": "Article3", "text": "SomeText3"},
     {"title": "Article4", "text": "SomeText4"},
-    {"title": "Article5", "text": "SomeText5"}
+    {"title": "Article5", "text": "SomeText5"},
+    {"title": "Article6", "text": "SomeText6"},
+    {"title": "Article7", "text": "SomeText7"},
+    {"title": "Article8", "text": "SomeText8"},
+    {"title": "Article9", "text": "SomeText9"},
+    {"title": "Article10", "text": "SomeText10"}
 ]
